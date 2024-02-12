@@ -27,7 +27,7 @@ const Container = Vue.createApp({
         },
         { isActive: false, id: '#Footer', title: 'Contact Us', linkId: '7' }
       ],
-      backgrounds: [{ url: 'assets/background-image/background1.WEBP' }],
+      backgrounds: [{ url: 'assets/background-image/bg.jpeg' }],
       postedBy: [
         {
           artistName: 'user',
